@@ -1,2 +1,0 @@
-# startGit
-git练习
